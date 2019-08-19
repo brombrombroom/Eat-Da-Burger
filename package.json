@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vienhong20/Burger.git"
+    "url": "git+https://github.com/frankjlinares/Burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vienhong20/Burger/issues"
+    "url": "https://github.com/frankjlinarers/Eat-Da-Burger/issues"
   },
-  "homepage": "https://github.com/vienhong20/Burger#readme",
+  "homepage": "https://github.com/frankklinares/Eat-Da-Burger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
